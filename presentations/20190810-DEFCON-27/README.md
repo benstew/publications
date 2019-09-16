@@ -8,4 +8,4 @@ Presented at
 
 Resources
 
-* [Slides](placeholder).pdf)
+* [Slides](https://github.com/benstew/publications/blob/master/presentations/20190810-DEFCON-27/Ethereum-Smart-Contract-Audit-Methodology.pdf)

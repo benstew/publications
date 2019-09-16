@@ -8,4 +8,4 @@ Presented at
 
 Resources
 
-* [Slides](placeholder).pdf)
+* [Slides](https://github.com/benstew/publications/blob/master/presentations/20190912-OWASP-DC/Insider-Threat-Assessments.pdf)

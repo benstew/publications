@@ -12,14 +12,14 @@
 
 | Presentation Title | Year |
 | --- | --- |
-| [Securing the Unknown: A Methodology for Auditing Smart Contracts](presentations/placeholder) | 2019 |
-| [Securing the Unknown: An Efficient Methodology for Securing Smart Contracts Throughout Their Lifecycle](presentations/placeholder) | 2019 |
+| [Securing the Unknown: A Methodology for Auditing Smart Contracts](https://github.com/benstew/publications/blob/master/presentations/20190810-DEFCON-27/Ethereum-Smart-Contract-Audit-Methodology.pdf) | 2019 |
+| [Securing the Unknown: An Efficient Methodology for Securing Smart Contracts Throughout Their Lifecycle](https://github.com/benstew/publications/blob/master/presentations/20190803-Trufflecon/Securing-The-Unknown.pdf) | 2019 |
 
 ### Insider Threats
 
 | Presentation Title | Year |
 | --- | --- |
-| [Insider Threat Assessments: A methodology for improving insider threat detection and deterrence](presentations/placeholder) | 2019 |
+| [Insider Threat Assessments: A methodology for improving insider threat detection and deterrence](https://github.com/benstew/publications/blob/master/presentations/20190912-OWASP-DC/Insider-Threat-Assessments.pdf) | 2019 |
 
 ### Human Computer Interaction
 
@@ -29,4 +29,4 @@ Coming Soon
 
 | Product | Review Date | Announcement |
 | --- | --- | --- |
-| Metacash | May 2019 | https://www.globenewswire.com/news-release/2019/07/30/1893834/0/en/Security-Innovation-assists-Metacash-to-secure-their-Blockchain-relay-network.html |
+| [Metacash](https://github.com/benstew/publications/blob/master/reviews/MetacashV2.pdf) | May 2019 | [Security Innovation assists Metacash to secure their blockchain relay network..](https://www.globenewswire.com/news-release/2019/07/30/1893834/0/en/Security-Innovation-assists-Metacash-to-secure-their-Blockchain-relay-network.html) |
