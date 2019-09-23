@@ -10,16 +10,16 @@
 
 ### Blockchain
 
-| Presentation Title | Year |
-| --- | --- |
-| [Securing the Unknown: A Methodology for Auditing Smart Contracts](https://github.com/benstew/publications/blob/master/presentations/20190810-DEFCON-27/Ethereum-Smart-Contract-Audit-Methodology.pdf) | 2019 |
-| [Securing the Unknown: An Efficient Methodology for Securing Smart Contracts Throughout Their Lifecycle](https://github.com/benstew/publications/blob/master/presentations/20190803-Trufflecon/Securing-The-Unknown.pdf) | 2019 |
+| Conference | Presentation Title | Year |
+| --- | --- | --- |
+| DEFCON 27 | [Securing the Unknown: A Methodology for Auditing Smart Contracts](https://github.com/benstew/publications/blob/master/presentations/20190810-DEFCON-27/Ethereum-Smart-Contract-Audit-Methodology.pdf) | 2019 |
+| Trufflecon 2019 | [Securing the Unknown: An Efficient Methodology for Securing Smart Contracts Throughout Their Lifecycle](https://github.com/benstew/publications/blob/master/presentations/20190803-Trufflecon/Securing-The-Unknown.pdf) | 2019 |
 
 ### Insider Threats
 
-| Presentation Title | Year |
-| --- | --- |
-| [Insider Threat Assessments: A methodology for improving insider threat detection and deterrence](https://github.com/benstew/publications/blob/master/presentations/20190912-OWASP-DC/Insider-Threat-Assessments.pdf) | 2019 |
+| Conference | Presentation Title | Year |
+| --- | --- | --- |
+| OWASP DC | [Insider Threat Assessments: A methodology for improving insider threat detection and deterrence](https://github.com/benstew/publications/blob/master/presentations/20190912-OWASP-DC/Insider-Threat-Assessments.pdf) | 2019 |
 
 ### Human Computer Interaction
 
