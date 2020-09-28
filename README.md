@@ -1,10 +1,17 @@
 # Publications
 
+* [Articles](#articles)
 * [Conference Presentations](#conference-presentations)
   * [Blockchain](#blockchain)
   * [Insider Threats](#insider-threats)
   * [Human Computer Interaction](#human-computer-interaction)
 * [Security Reviews](#security-reviews)
+
+## Articles
+  * Linux Rootkits [20200711]
+  * Removing Blockchain Adoption Barriers [20190801]
+  * Insider Threat Classifications [20190901]
+  * Awesome Data Exfiltration [20190726]
 
 ## Conference Presentations
 
